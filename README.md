@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Atasha 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my health 
 - 🌱 I’m currently learning React
@@ -9,6 +7,6 @@ Here are some ideas to get you started:
 - :book:  I'm currently reading 'Gideon the Ninth'
 - 💬 Ask me about ... anything
 - 📫 How to reach me: Ms.APotter@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her :rainbow:
 - ⚡ Fun fact: My family is from Hawaii and I'm 1/4 Filipino
 
